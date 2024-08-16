@@ -1,1 +1,1 @@
-# Multi_view-Dataset-KUST_CE
+# Multi-view document dataset: KUST_CE
