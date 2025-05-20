@@ -19,6 +19,7 @@ Entertainment
 
 Each document is labeled according to its category, providing a comprehensive resource for research in multilingual document classification and alignment.
 
-[1] Zhenqiu Shu, Bin Li, Cunli Mao, Shengxiang Gao, Zhengtao Yu. Structure-guided feature and cluster contrastive learning for multi-view clustering. Neurocomputing, 582: 127555 (2024).
-[2] Bin Li, Zhenqiu Shu, Yingbo Liu, Cunli Mao, Shengxiang Gao, Zhengtao Yu. Multi-view clustering via label-embedded regularized NMF with dual-graph cnstraints. Neurocomputing 551: 126521 (2023)
+[1] Zhenqiu Shu, Teng Sun, Yunwei Luo, Zhengtao Yu. "Ambiguous instance-aware contrastive network with multi-level matching for multi-view document clustering.", Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
+[2] Zhenqiu Shu, Bin Li, Cunli Mao, Shengxiang Gao, Zhengtao Yu. Structure-guided feature and cluster contrastive learning for multi-view clustering. Neurocomputing, 582: 127555 (2024).
+
 
